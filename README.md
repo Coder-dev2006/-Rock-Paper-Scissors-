@@ -1,13 +1,28 @@
-# -Rock-Paper-Scissors-
+# 🎮 Rock-Paper-Scissors Game (Python)
 
-"This project is a simple Rock–Paper–Scissors game written in Python. The user plays against the computer, and the results are displayed in the console."
+An interactive **Python console game** where the player competes against the computer in the classic *Rock-Paper-Scissors* challenge.  
+This project demonstrates control flow, randomization, and clean function-based coding practices in Python.
 
-Freatures :
+---
 
-Simple and easy-to-use interface (runs in the console)
+## 🚀 Features
+- 🧠 Computer generates random moves
+- 👨‍💻 Player input validation and result logic
+- 📊 Score counter for multiple rounds
+- ⏳ Optional delay for better UX (using `time.sleep`)
+- 🧩 Beginner-friendly, fully commented code
 
-Infinite mode or best of mode (e.g., best of 3, best of 5)
+---
 
-Keeps track of the score and determines the final winner
+## 🛠️ Technologies Used
+- **Python 3**
+- **random** module (for computer move)
+- **time** module (for gameplay pacing)
 
-Option to exit the game at any time
+---
+
+## ⚙️ How to Run
+```bash
+git clone https://github.com/Coder-dev2006/Rock-Paper-Scissors.git
+cd Rock-Paper-Scissors
+python main.py
